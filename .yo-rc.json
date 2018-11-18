@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "udaymicrotestapp",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YzExYTEwNDJjMzRkZTRhM2M5OTUxYmYzOTYzYTczNmNlNzMyMDBlY2VmMDk3Y2QxMmQyY2Q3MjA1MDlmNGUzZjBjOTljNjcxZmU5OGQwNGMyZGI0M2RlMzNiM2E2NzYxM2UwM2U2MWY2M2U2NzdkNGU5OThmOWM5ZDg1NjE4ZmM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "udayaukt",
+  "repository-name": "udaymicrotestapp"
+}
